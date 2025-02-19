@@ -1,4 +1,4 @@
-# Recap Project 2: Quiz App - Interactivity
+# Recap Project 2: Quiz App - Interactivity!
 
 In a previous project, you created the layout for a Quiz App using HTML and CSS. The focus of this project is to add interactivity with JavaScript.
 
