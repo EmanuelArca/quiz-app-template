@@ -33,6 +33,10 @@
   display: block;
 }
 
+.card_answer--hidden {
+  display:none;
+}
+
 .card__button-bookmark {
   position: absolute;
   right: 1rem;
